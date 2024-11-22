@@ -1,0 +1,49 @@
+body{
+    background-image: url("/img/header-image.png");
+    background-size: cover;
+    background-repeat:no-repeat ;
+}
+.sign{
+    margin-left: 500px;
+    width: 450px;
+    height: fit-content;
+    background-color: rgba(0, 0, 0, 0.455);
+}
+.email,.pass{
+    height:65px;
+    width:320px;
+    background: transparent;
+    color:grey;
+    /* background-color: darkgrey; */
+}
+.signbtn2{
+    height:45px;
+    width:320px;
+    background: transparent;
+    color:grey;
+    /* background-color: darkgrey; */
+
+}
+.OR{
+    margin-left:145px;
+    color: aliceblue;
+    font-size: 17px;
+}
+.signbtn2{
+    height:45px;
+    width:320px;
+    background: transparent;
+    color:grey;
+    /* background-color: darkgrey; */
+
+}
+.signcode{
+    height:45px;
+    width:320px;
+    background: transparent;
+    color:grey;
+    /* background-color: darkgrey; */
+
+}
+
+
